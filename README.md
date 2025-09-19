@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Harsha Kocherla
 
-![Visitor Count](https://profile-counter.glitch.me/harshakocherla/count.svg)
 
 **Senior Software Engineer** | 10+ years in Web & Mobile Development  
 [LinkedIn](https://www.linkedin.com/in/harsha-kocherla/)
